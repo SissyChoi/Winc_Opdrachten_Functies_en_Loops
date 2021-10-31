@@ -1,10 +1,10 @@
 //Hey kiddo
 const ageCheck = function (age) {
     if (age >= 18) {
-        return "True"
+        return "True" //Niet noteren als string
     }
     else {
-        return "False"
+        return "False" //Niet noteren als string 
     }
 };
 
